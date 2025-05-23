@@ -471,7 +471,6 @@ form input:focus {
   }
 
   .about {
-    display: grid;
     grid-template-columns: 40% 30%;
     justify-content: space-between;
   }
@@ -505,11 +504,6 @@ form input:focus {
     align-items: flex-start;
   }
 
-  /* Išdėstymas pagal puslapio dizainą. Bet pasirinkau necentruoti .inner-links, nes be Modal ir Made with Squarespace keistai išdėstymas atrodo  */
-
-  /* .inner-links {
-    align-self: center;
-  } */
 
   .social-links {
     grid-template-columns: 1fr;
