@@ -27,11 +27,11 @@ This repository contains a responsive, multi-section landing page built with sem
 
 ### Full Page (Desktop)
 
-![Desktop Full](img/screenshots/desktop-full.png)
+<img src="img/screenshots/desktop-full.png" alt="Desktop Full" width="500">
 
 ### Full Page (Mobile)
 
-![Mobile Full](img/screenshots/mobile-full.png)
+<img src="img/screenshots/mobile-full.png" alt="Mobile Full" width="250">
 
 ### Hero Section
 
