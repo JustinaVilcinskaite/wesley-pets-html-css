@@ -27,23 +27,23 @@ This repository contains a responsive, multi-section landing page built with sem
 
 ### Full Page (Desktop)
 
-<img src="img/screenshots/desktop-full.png" alt="Desktop Full" width="500">
+<img src="docs/screenshots/desktop-full.png" alt="Desktop Full" width="500">
 
 ### Full Page (Mobile)
 
-<img src="img/screenshots/mobile-full.png" alt="Mobile Full" width="250">
+<img src="docs/screenshots/mobile-full.png" alt="Mobile Full" width="250">
 
 ### Hero Section
 
-![Hero Section](img/screenshots/hero-section.png)
+![Hero Section](docs/screenshots/hero-section.png)
 
 ### Featured Product (Hover)
 
-![Featured Product Hover](img/screenshots/featured-hover.png)
+![Featured Product Hover](docs/screenshots/featured-hover.png)
 
 ### Product Gallery
 
-![Product Gallery](img/screenshots/product-gallery.png)
+![Product Gallery](docs/screenshots/product-gallery.png)
 
 ## Getting Started
 

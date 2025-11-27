@@ -286,6 +286,10 @@ main h1 {
   justify-content: center;
 }
 
+.slider-btns-wrapper button {
+  all: unset;
+}
+
 .slider-btns-wrapper img {
   width: 40px;
   cursor: pointer;
@@ -503,7 +507,6 @@ form input:focus {
     grid-template-columns: repeat(3, 1fr);
     align-items: flex-start;
   }
-
 
   .social-links {
     grid-template-columns: 1fr;
